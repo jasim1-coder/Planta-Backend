@@ -9,6 +9,7 @@ C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\Planta.pdb
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\BCrypt.Net-Next.dll
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\CloudinaryDotNet.dll
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\Dapper.dll
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\DotNetEnv.dll
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\Google.Protobuf.dll
@@ -24,6 +25,7 @@ C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\Microsoft.Id
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\Sprache.dll
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -44,6 +46,14 @@ C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\runtimes\win
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\Application.dll
+C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\Common.dll
+C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\Domain.dll
+C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\Application.pdb
+C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\Domain.pdb
+C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\User\Desktop\Planta Backend\Planta\Planta\bin\Debug\net8.0\Common.pdb
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\obj\Debug\net8.0\Planta.csproj.AssemblyReference.cache
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\obj\Debug\net8.0\Planta.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\obj\Debug\net8.0\Planta.AssemblyInfoInputs.cache
@@ -51,6 +61,7 @@ C:\Users\User\Desktop\Planta Backend\Planta\Planta\obj\Debug\net8.0\Planta.Assem
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\obj\Debug\net8.0\Planta.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\obj\Debug\net8.0\Planta.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\obj\Debug\net8.0\Planta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Planta Backend\Planta\Planta\obj\Debug\net8.0\Planta.sourcelink.json
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\obj\Debug\net8.0\scopedcss\bundle\Planta.styles.css
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\User\Desktop\Planta Backend\Planta\Planta\obj\Debug\net8.0\staticwebassets.development.json
